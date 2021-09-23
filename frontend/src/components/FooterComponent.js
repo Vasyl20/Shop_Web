@@ -16,10 +16,10 @@ const FooterPage = () => {
               <h5 className="title">My Links</h5>
               <ul>
                 <li className="list-unstyled">
-                  <a href="https://www.linkedin.com/in/alexandru-mih%C4%83ilescu-a70870203/">LinkedIn</a>
+                  <a href="https://www.linkedin.com/feed/?trk=onboarding-landing">LinkedIn</a>
                 </li>
                 <li className="list-unstyled">
-                  <a href="https://github.com/alexmihailescu99/">GitHub</a>
+                  <a href="https://gist.github.com/Vasyl20">GitHub</a>
                 </li>
               </ul>
             </MDBCol>
@@ -29,7 +29,7 @@ const FooterPage = () => {
         </div>
         <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-            &copy; {new Date().getFullYear()} Copyright: <a href=""> Alex Mihailescu</a>
+            &copy; {new Date().getFullYear()} Copyright: <a href=""> Vasyl Sivitskyi</a>
           </MDBContainer>
         </div>
       </MDBFooter>
